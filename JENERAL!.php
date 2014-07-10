@@ -42,7 +42,7 @@
 </tr>
 <tr>
     <td>
-        <form method="post" action="coordinadores.jsp">
+        <form method="post" action="coordinadores.php">
             <center>
                 <input type="submit" value="Coordinadores de Area" name="coordinadores" />
             </center>
